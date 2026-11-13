@@ -91,8 +91,10 @@ Turns plain-English requests into **function calls as valid JSON, 100% of the ti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ALRO-GM&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=0aa5a8&icon_color=3178c6" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=ALRO-GM&hide_border=true&theme=tokyonight&background=0d1117&ring=0aa5a8&fire=3178c6&currStreakLabel=0aa5a8" alt="GitHub streak" />
+<img height="190" src="https://raw.githubusercontent.com/ALRO-GM/ALRO-GM/output/stats.svg" alt="GitHub stats" />
+<img height="190" src="https://raw.githubusercontent.com/ALRO-GM/ALRO-GM/output/languages.svg" alt="Most used languages" />
+<br/>
+<img height="190" src="https://streak-stats.demolab.com?user=ALRO-GM&hide_border=true&theme=tokyonight&background=0d1117&ring=0aa5a8&fire=3178c6&currStreakLabel=0aa5a8" alt="GitHub streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALRO-GM/ALRO-GM/output/github-contribution-grid-snake-dark.svg" />
