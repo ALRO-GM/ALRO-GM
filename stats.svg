@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="355" height="240" viewBox="0 0 355 240" role="img" aria-label="Alberto&#x27;s GitHub Stats">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #0aa5a8; animation: fade .8s ease-out both; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #8b949e; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #e6edf3; }
+  .row { opacity: 0; animation: fade .6s ease-out forwards; }
+  .bar { transform-origin: left; transform: scaleX(0); animation: grow 1.1s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+  @keyframes grow { to { transform: scaleX(1); } }
+</style>
+<rect x=".5" y=".5" rx="10" width="354" height="239" fill="#0d1117" stroke="#1f2937"/>
+<text x="25" y="38" class="t">Alberto&#x27;s GitHub Stats</text>
+<g class="row" style="animation-delay:0.15s"><text x="25" y="72" class="l">🔥  Contributions (last year)</text><text x="330" y="72" class="v" text-anchor="end">946</text></g>
+<g class="row" style="animation-delay:0.27s"><text x="25" y="99" class="l">📝  Commits (last year)</text><text x="330" y="99" class="v" text-anchor="end">786</text></g>
+<g class="row" style="animation-delay:0.39s"><text x="25" y="126" class="l">🔀  Pull requests</text><text x="330" y="126" class="v" text-anchor="end">69</text></g>
+<g class="row" style="animation-delay:0.51s"><text x="25" y="153" class="l">📦  Public repositories</text><text x="330" y="153" class="v" text-anchor="end">7</text></g>
+<g class="row" style="animation-delay:0.63s"><text x="25" y="180" class="l">👥  Followers</text><text x="330" y="180" class="v" text-anchor="end">7</text></g>
+
+</svg>

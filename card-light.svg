@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="506" viewBox="0 0 985 506" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" role="img" aria-label="Alberto — profile card">
+<style>
+  text, tspan { white-space: pre; }
+  .k { fill: #953800; } .v { fill: #0a3069; } .m { fill: #8c959f; }
+  .a { fill: #087f80; font-weight: 700; } .add { fill: #1a7f37; } .del { fill: #cf222e; }
+  .ok { fill: #1a7f37; }
+  .ln { fill: #24292f; opacity: 0; animation: in .45s ease-out forwards; }
+  .hull { fill: #24292f; } .flame1 { fill: #e85d04; } .flame2 { fill: #f4a100; }
+  .flame1, .flame2 { animation: flicker .35s steps(2) infinite alternate; }
+  .flame2 { animation-delay: .17s; }
+  .rocket { animation: hover 3s ease-in-out infinite; }
+  .pulse { animation: pulse 1.6s ease-in-out infinite; }
+  .cur { fill: #087f80; animation: blink 1s steps(1) infinite; }
+  @keyframes in { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes flicker { from { opacity: 1; } to { opacity: .35; } }
+  @keyframes hover { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+<rect x="1" y="1" width="983" height="504" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<g class="rocket"><text><tspan x="22" y="58" class="hull">              /\              </tspan><tspan x="22" y="78" class="hull">             /  \             </tspan><tspan x="22" y="98" class="hull">            / /\ \            </tspan><tspan x="22" y="118" class="hull">           / /  \ \           </tspan><tspan x="22" y="138" class="hull">          |  ____  |          </tspan><tspan x="22" y="158" class="hull">          | |    | |          </tspan><tspan x="22" y="178" class="hull">          | |    | |          </tspan><tspan x="22" y="198" class="hull">          | |____| |          </tspan><tspan x="22" y="218" class="hull">          |   42   |          </tspan><tspan x="22" y="238" class="hull">          |  MAD   |          </tspan><tspan x="22" y="258" class="hull">         /|        |\         </tspan><tspan x="22" y="278" class="hull">        / |        | \        </tspan><tspan x="22" y="298" class="hull">       /  |        |  \       </tspan><tspan x="22" y="318" class="hull">      /___|________|___\      </tspan><tspan x="22" y="338" class="hull">          /_/_/\_\_\          </tspan><tspan x="22" y="358" class="flame1">          ( ) )( ( )          </tspan><tspan x="22" y="378" class="flame2">           ( )  ( )           </tspan><tspan x="22" y="398" class="flame1">            ) () (            </tspan><tspan x="22" y="418" class="flame2">             (  )             </tspan><tspan x="22" y="438" class="flame1">              ()              </tspan></text></g>
+<text x="390" y="34" class="ln" style="animation-delay:0.25s"><tspan class="a">alberto@alro-gm</tspan></text>
+<text x="390" y="55" class="ln" style="animation-delay:0.32s"><tspan class="m">─────────────────────────────────────────────────────────</tspan></text>
+<text x="390" y="76" class="ln" style="animation-delay:0.39s"><tspan class="k">Role</tspan>:<tspan class="m">...............</tspan> <tspan class="v">Software Developer · Product Builder</tspan></text>
+<text x="390" y="97" class="ln" style="animation-delay:0.46s"><tspan class="k">School</tspan>:<tspan class="m">.............................</tspan> <tspan class="v">42 Madrid (albrodri)</tspan></text>
+<text x="390" y="118" class="ln" style="animation-delay:0.53s"><tspan class="k">Building</tspan>:<tspan class="m">...........</tspan> <tspan class="v">peer4u.app · solo, idea → production</tspan></text>
+<text x="390" y="139" class="ln" style="animation-delay:0.60s"><tspan class="k">Location</tspan>:<tspan class="m">..................................</tspan> <tspan class="v">Madrid, Spain</tspan></text>
+<text x="390" y="160" class="ln" style="animation-delay:0.67s"><tspan class="k">Uptime</tspan>:<tspan class="m">.......................</tspan> <tspan class="v">2 years, 3 months, 23 days</tspan></text>
+<text x="390" y="202" class="ln" style="animation-delay:0.81s"><tspan class="k">Mindset</tspan>:<tspan class="m">..............</tspan> <tspan class="v">Ship · Measure · Own it end-to-end</tspan></text>
+<text x="390" y="223" class="ln" style="animation-delay:0.88s"><tspan class="k">Stack.Web</tspan>:<tspan class="m">.......</tspan> <tspan class="v">TypeScript, React 19, Fastify, Three.js</tspan></text>
+<text x="390" y="244" class="ln" style="animation-delay:0.95s"><tspan class="k">Stack.AI</tspan>:<tspan class="m">..........</tspan> <tspan class="v">Local LLMs, RAG, constrained decoding</tspan></text>
+<text x="390" y="265" class="ln" style="animation-delay:1.02s"><tspan class="k">Stack.Ops</tspan>:<tspan class="m">.....</tspan> <tspan class="v">Docker, Caddy, CI-gated deploys, €0 infra</tspan></text>
+<text x="390" y="307" class="ln" style="animation-delay:1.16s"><tspan class="m">─ </tspan><tspan class="a">Contact</tspan><tspan class="m"> ───────────────────────────────────────────────</tspan></text>
+<text x="390" y="328" class="ln" style="animation-delay:1.23s"><tspan class="k">Email</tspan>:<tspan class="m">..................................</tspan> <tspan class="v">ajrd91@gmail.com</tspan></text>
+<text x="390" y="349" class="ln" style="animation-delay:1.30s"><tspan class="k">Web</tspan>:<tspan class="m">.....................</tspan> <tspan class="v">peer4u.app · labtory.peer4u.app</tspan></text>
+<text x="390" y="370" class="ln" style="animation-delay:1.37s"><tspan class="k">Status</tspan>:<tspan class="m">..................</tspan> <tspan class="ok pulse">●</tspan><tspan class="v"> Open to work &amp; collaborations</tspan></text>
+<text x="390" y="412" class="ln" style="animation-delay:1.51s"><tspan class="m">─ </tspan><tspan class="a">GitHub Stats</tspan><tspan class="m"> ──────────────────────────────────────────</tspan></text>
+<text x="390" y="433" class="ln" style="animation-delay:1.58s"><tspan class="k">Repos</tspan>:<tspan class="m">..................</tspan> <tspan class="v">7</tspan><tspan class="m"> | </tspan><tspan class="k">Followers</tspan>:<tspan class="m">................</tspan> <tspan class="v">7</tspan></text>
+<text x="390" y="454" class="ln" style="animation-delay:1.65s"><tspan class="k">Commits</tspan>:<tspan class="m">..............</tspan> <tspan class="v">786</tspan><tspan class="m"> | </tspan><tspan class="k">Contributions</tspan>:<tspan class="m">..........</tspan> <tspan class="v">946</tspan></text>
+<text x="390" y="475" class="ln" style="animation-delay:1.72s"><tspan class="k">Lines of Code</tspan>:<tspan class="m">............</tspan> <tspan class="v">824,287</tspan> ( <tspan class="add">+927,734</tspan>, <tspan class="del">-103,447</tspan> )<tspan class="cur">█</tspan></text>
+</svg>
